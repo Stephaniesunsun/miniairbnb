@@ -1,5 +1,6 @@
-# Windbnb frontend challenges from devChallenges https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD
+# Windbnb frontend challenges from devChallenges 
 
+Original challenge can be found here: https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD
 Deployed on https://dry-savannah-37486.herokuapp.com/
 
 User story:
