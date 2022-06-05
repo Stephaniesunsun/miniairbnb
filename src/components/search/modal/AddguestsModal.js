@@ -30,7 +30,7 @@ export const AddguestsModal = ({adultNumber, setAdultNumber, childrenNumber, set
 
 const Container = styled('div')`
     margin-left: 35vw;
-    dispaly: flex;
+    display: flex;
     flex-direction: column;
 `
 const Wrapper = styled('div')`
